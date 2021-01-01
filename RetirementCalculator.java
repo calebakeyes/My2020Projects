@@ -1,3 +1,5 @@
+//This program allows you to calculate the amount of money you will have when you retire. 
+
 package com.calebkeyes;
 
 import java.util.Scanner;
